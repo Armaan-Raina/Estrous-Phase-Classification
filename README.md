@@ -12,4 +12,4 @@ All data used in this study can be found here: https://datadryad.org/dataset/doi
 ## Acknowledgements
 We thank Dr. Stephanie Proano for orientation to and generation of the parent dataset, and Eleanor-Gayle Brademan, Emily Gaeta, and Sophia Burgess for reviewing earlier drafts of the figures.
 
-This project is licensed under the MIT License — see LICENSE for details.
+This project is licensed under the MIT License, see LICENSE for details.
